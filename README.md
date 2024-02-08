@@ -8,7 +8,7 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-Barometric pressure sensor module based on BMP280 chip.
+Barometric pressure and temperature sensor module based on BMP280 chip.
 
 Contents
 -------------------
