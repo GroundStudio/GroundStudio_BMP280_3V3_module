@@ -26,6 +26,7 @@ Versions
 
 License
 -------------------
+[![certification-mark-RO000017-wide](https://github.com/GroundStudio/GroundStudio_BMP280_3V3_module/assets/77836107/1a7f6cfa-58dd-4d24-aa8e-7ef33341f89d)](https://certification.oshwa.org/ro000017.html)
 
 This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. 
 **You are welcome to use this for commercial purposes.**
