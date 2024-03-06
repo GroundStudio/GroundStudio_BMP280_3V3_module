@@ -26,9 +26,14 @@ Versions
 
 License
 -------------------
-[![certification-mark-RO000017-wide](https://github.com/GroundStudio/GroundStudio_BMP280_3V3_module/assets/77836107/1a7f6cfa-58dd-4d24-aa8e-7ef33341f89d)](https://certification.oshwa.org/ro000017.html)
-
 This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. 
 **You are welcome to use this for commercial purposes.**
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow! 
+
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000017.html)   
+   
+[![certification-mark-RO000017-wide](https://github.com/GroundStudio/GroundStudio_BMP280_3V3_module/assets/77836107/feb2d7ee-95b5-4773-9ccb-710c8915e0b0)](https://certification.oshwa.org/ro000017.html)
+
