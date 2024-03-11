@@ -34,6 +34,6 @@ Please consider contributing back to this project or others to help the open-sou
 Certifications:
 
 [Open Source Hardware Association](https://certification.oshwa.org/ro000017.html)   
-   
-[![certification-mark-RO000017-wide](https://github.com/GroundStudio/GroundStudio_BMP280_3V3_module/assets/77836107/feb2d7ee-95b5-4773-9ccb-710c8915e0b0)](https://certification.oshwa.org/ro000017.html)
+[![certification-mark-RO000017-wide](https://github.com/GroundStudio/GroundStudio_BMP280_3V3_module/assets/77836107/767a57f2-b1d1-427e-8a4f-2a3e10af8edc)
+](https://certification.oshwa.org/ro000017.html)
 
